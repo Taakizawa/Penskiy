@@ -5,9 +5,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-<html class=" responsive" lang="ru"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-			<meta name="viewport" content="width=device-width,initial-scale=1">
-		<meta name="theme-color" content="#171a21">
-		<title>Сообщество Steam :: TorontoNokia</title>
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+
